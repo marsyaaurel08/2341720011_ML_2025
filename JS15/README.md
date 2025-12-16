@@ -1,5 +1,5 @@
 ---
-title: Laporan Praktikum Hugging Face
+# Laporan Praktikum Hugging Face
 ---
 
 ## Akun Hugging Face: ## 
